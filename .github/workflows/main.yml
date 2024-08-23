@@ -31,7 +31,7 @@ jobs:
 
     - name: Commit changes
       run: |
-        git config --local user.email "jock3r8944@gmail.com"
+        git config --local user.email "wassimkhleifi@gmail.com"
         git config --local user.name "Jock3R99"
         git add README.md
         git commit -m "Update README with top voted bots"
