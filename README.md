@@ -17,13 +17,13 @@ If you would like to contribute to this repository, feel free to open an issue o
 
 | Bot name        | Monthly votes           | Invite link  |
 | ------------- |:-------------:| -----:|
-| Mudae      | 200661267 | [Click me](https://discord.com/api/oauth2/authorize?client_id=432610292342587392&permissions=537159744&scope=applications.commands%20bot) |
-| Karuta      | 94962269 | [Click me](https://discordapp.com/oauth2/authorize?client_id=646937666251915264&permissions=379969&scope=bot) |
-| SOFI      | 15168417 | [Click me](https://discord.com/api/oauth2/authorize?client_id=853629533855809596&scope=bot+applications.commands&permissions=515396455521) |
-| Pokétwo      | 72114722 | [Click me](https://discord.com/oauth2/authorize?client_id=716390085896962058&scope=bot%20applications.commands&permissions=388168) |
-| OwO      | 31197657 | [Click me](https://discordapp.com/oauth2/authorize?client_id=408785106942164992&permissions=1074120776&scope=bot) |
-| PokéMeow      | 36424704 | [Click me](https://discord.com/oauth2/authorize?client_id=664508672713424926&scope=bot%20applications.commands&permissions=388168) |
-| Green-bot      | 9078546 | [Click me](https://discord.com/oauth2/authorize?client_id=783708073390112830&scope=bot+applications.commands&permissions=4331695368) |
-| MatchBox      | 2011451 | [Click me](https://discord.com/oauth2/authorize?client_id=1145363441524166758&permissions=20204552&scope=bot%20applications.commands) |
-| Musico      | 2130381 | [Click me](https://discord.com/api/oauth2/authorize?client_id=810540985032900648&permissions=2150754416&scope=bot) |
-| EPIC RPG      | 33410692 | [Click me](https://discord.com/api/oauth2/authorize?client_id=555955826880413696&permissions=378944&scope=bot%20applications.commands) |
+| Mudae      | 200661723 | [Click me](https://discord.com/api/oauth2/authorize?client_id=432610292342587392&permissions=537159744&scope=applications.commands%20bot) |
+| Karuta      | 94962599 | [Click me](https://discordapp.com/oauth2/authorize?client_id=646937666251915264&permissions=379969&scope=bot) |
+| SOFI      | 15168539 | [Click me](https://discord.com/api/oauth2/authorize?client_id=853629533855809596&scope=bot+applications.commands&permissions=515396455521) |
+| Pokétwo      | 72114798 | [Click me](https://discord.com/oauth2/authorize?client_id=716390085896962058&scope=bot%20applications.commands&permissions=388168) |
+| OwO      | 31197819 | [Click me](https://discordapp.com/oauth2/authorize?client_id=408785106942164992&permissions=1074120776&scope=bot) |
+| PokéMeow      | 36424776 | [Click me](https://discord.com/oauth2/authorize?client_id=664508672713424926&scope=bot%20applications.commands&permissions=388168) |
+| Green-bot      | 9078556 | [Click me](https://discord.com/oauth2/authorize?client_id=783708073390112830&scope=bot+applications.commands&permissions=4331695368) |
+| MatchBox      | 2011513 | [Click me](https://discord.com/oauth2/authorize?client_id=1145363441524166758&permissions=20204552&scope=bot%20applications.commands) |
+| Musico      | 2130409 | [Click me](https://discord.com/api/oauth2/authorize?client_id=810540985032900648&permissions=2150754416&scope=bot) |
+| EPIC RPG      | 33410744 | [Click me](https://discord.com/api/oauth2/authorize?client_id=555955826880413696&permissions=378944&scope=bot%20applications.commands) |
