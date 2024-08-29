@@ -16,10 +16,15 @@ def topgg_request():
 
 ## create tables
 def create_table(bots):
-	content = "| Bot name        | Monthly votes           | Invite link  |\n| ------------- |:-------------:| -----:|\n"
-	for bot in bots:
-		content += f"| {bot['username']}      | {bot['points']} | [Click me]({bot['invite']}) |\n"
-	return content
+    content = "| Rank | Bot Avatar | Bot name        | Monthly votes | Invite link  |\n"
+    content += "|:----:|:----------:|:-----------------:|:--------------:|:------------:|\n"
+    for i, bot in enumerate(bots, start=1):
+        bot_id = bot.get("id")
+        avatar_hash = bot.get("avatar", None)
+        avatar_url = f"https://cdn.discordapp.com/avatars/{bot_id}/{avatar_hash}.png" if avatar_hash else "No Avatar"
+        avatar_img_html = f'<img src="{avatar_url}" width="45" height="45" style="border-radius: 50%"/>'
+        content += f"| {i} | {avatar_img_html} | {bot['username']} | {bot['points']} | [Click me]({bot['invite']}) |\n"
+    return content
 
 ## Get readme old content
 def get_previous_content(readme_content):
